@@ -5,7 +5,7 @@
  curl -s https://fluxcd.io/install.sh | sudo bash
 ```
 
-## Bootstrap flux-cd pn the cluster
+## Bootstrap flux-cd on the cluster
 ```text
 flux bootstrap github \
   --token-auth \
